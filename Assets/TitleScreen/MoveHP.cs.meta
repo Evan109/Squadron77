@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8095eac793612284f8329616583eef91
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aclone: {fileID: 8305771392612575823, guid: 45eac5e763974254eb1144e1b7a19b84, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
